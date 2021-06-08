@@ -1,0 +1,10 @@
+version: "3.3"
+
+services:
+  db:
+    container_name: sql-for-scientists
+    build: .
+    env_file:
+      - creds.env
+    ports:
+      - 33060:3306

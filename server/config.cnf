@@ -1,0 +1,5 @@
+[client]
+user = "guest"
+password = "relational"
+host = "relational.fit.cvut.cz"
+port = 3306

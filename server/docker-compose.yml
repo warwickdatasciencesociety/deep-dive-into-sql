@@ -8,3 +8,5 @@ services:
       - creds.env
     ports:
       - 33060:3306
+    cap_add:
+      - SYS_NICE  # avoids `mbind: Operation not permitted`

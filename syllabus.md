@@ -13,6 +13,7 @@
 ### Resources
 
 - [W3Schools SQL Tutorial](https://www.w3schools.com/sql/default.Asp)
+- [MySQL functions](https://www.w3schools.com/sql/sql_ref_mysql.asp)
 
 ## Session Content
 
@@ -42,7 +43,19 @@ Database: `genes`
 
 ### Session 2: Aggregations and Set Operations
 
-TODO
+- Introduce basic aggregation functions: `SUM`, `AVG`, `COUNT`, `MIN`, `MAX`, grouping by one variable
+- Reminder of the importance of `AS` for producing clear output
+- Point out that aggregation functions ignore missing values
+- Also introduce `COUNT DISTINCT`
+- Group by multiple variables
+- Introduce `HAVING`, making sure to distinguish it from `WHERE` (filter lines vs filter groups)
+- Can also introduce `ORDER BY` at an appropriate point in the session, as well as `DESC`
+- Show an example bringing everything we have learnt so far together
+- Briefly introduce `UNION`, `INTERSECT`, but make clear they are not too common in practical use
+
+Further reading:
+- Window functions (advanced)
+- `IIF`
 
 Database: `Toxicology`
 
@@ -55,5 +68,16 @@ Database: `Toxicology`
   - Q: how many total grams from each supplier? Need to use left join and fill NULL with 0
   - Q: what is average quality for each supplier? Probably want to use right join and replace NULL with 'Unknown'
   - Could also do inner joins if don't care about special cases
+- Introduce joins in MySQL
+- Clean up notation by adding aliases for the two tables
+- Briefly mention that `ON` is extremely flexible and can take any condition that `WHERE` can
+- Tell people they can play around with this but expect to get weird results as the behaviour is not completely intuitive
+- Note that we might obtain null values when joining
+- Find these with `IS NULL` and `IS NOT NULL` (point out it is not `NOT IS NULL`)
+- Handle null values with `COALESCE`
+
+Further reading:
+- Self/cross joins
+- Natural join and `USING`
 
 Database: `Carcinogenesis`

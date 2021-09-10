@@ -1,0 +1,4 @@
+theme: jekyll-theme-cayman
+title: SQL for Scientists
+description: An crash course in SQL with scientific applications taught by WDSS
+future: true

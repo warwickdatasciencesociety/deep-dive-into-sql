@@ -6,6 +6,7 @@ db_names=(
     genes
     Carcinogenesis
     Toxicology
+    Restbase
 )
 # Import each database sequentially
 for db_name in "${db_names[@]}"; do
@@ -25,4 +26,3 @@ for db_name in "${db_names[@]}"; do
     mysqldump --defaults-extra-file=config.cnf $params >> \
         /docker-entrypoint-initdb.d/${db_name,,}.sql
 done
-

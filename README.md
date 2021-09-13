@@ -47,7 +47,6 @@ This course is jam-packed with content, which may make it seem a little daunting
 
 Here you can find the resources for each session. Sessions will be added as the course progresses.
 
-* [Bonus Session One](https://youtu.be/OGlnGob0GmY) (Setup Guide)
 * [Session One](session-one)
 * [Session Two](session-two)
 * [Session Three](session-three)
@@ -67,7 +66,7 @@ You can find a list of answered FAQs [here](faqs/).
 
 ### Support Channels
 
-Unlike our beginners' courses, we do not currently have a mentoring scheme for this course. Instead, the course leader will arrange office hours for you to drop into and ask questions.
+Unlike some of our other courses, we do not currently have a mentoring scheme for this course. Instead, the course coordinator will arrange office hours for you to drop into and ask questions.
 
 If you are self-teaching, feel free to reach out to Dominika Daraż (the content co-author and course coordinator) on [LinkedIn](https://www.linkedin.com/in/dominika-dara%C5%BC-b13335162/) or Patricio Hernandez (the content co-author) on [LinkedIn](https://www.linkedin.com/in/patriciohdzs/)
 

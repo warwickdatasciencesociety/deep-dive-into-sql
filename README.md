@@ -20,7 +20,7 @@ If you are viewing this page on GitHub, you may want to switch to the [standalon
 ## Getting Started
 
 ### About the Course
-
+The WDSS Dive Into SQL course is designed for anyone wanting to gain or improve their SQL skills. As such it is suitable for complete beginners but dives deep enough interest more experienced SQLers. This course covers querying a database, from very simple to more advanced queries. This is a fast-paced course designed to make you into a competent user of SQL in mere two weeks. All of our resources are free to be used by anyone, though WDSS do offer teaching and mentorship for this course to make learning even easier.
 
 ### Setup Guide
 #### Using Beekeeper Studio (recommended)

@@ -11,7 +11,7 @@ If you are viewing this page on GitHub, you may want to switch to the [standalon
 - [Accessing Resources](#accessing-resources)
   - [Resource List](#resource-list)
   - [Session Links](#session-links)
-  - [Further Reading](#further-readinng)
+  - [Further Reading](#further-reading)
 - [Getting Help](#getting-help)
   - [FAQs](#faqs)
   - [Support Channels](#support-channels)
@@ -24,7 +24,14 @@ If you are viewing this page on GitHub, you may want to switch to the [standalon
 
 ### Setup Guide
 #### Using Beekeeper Studio (recommended)
+In order to engage both with the course content and homeworks you will require access to our hosted databases via a MySQL-supported client. Whilst there are many options for this, we recommend using Beekeeper studio as it is free, open-source, and extremely easy to download and use. [Follow this link to download Beekeeper.](https://www.beekeeperstudio.io/) 
 
+#### Connecting to the course database
+Once you have an SQL client set up, you're gonna want to connect to the WDSS-hosted databases for this course. To do this using Beekeper, select a `MySQL` connection and input the login details below:
+- Host: `sql.wdss.io`
+- Port: `33061`
+- Username: `guest`
+- Password: `relational`
 
 
 ### Issue Reporting
@@ -37,20 +44,18 @@ The WDSS team have put their heart and soul (and some hundreds of hours) into pr
 
 This course is jam-packed with content, which may make it seem a little daunting at first but don't worry. The teaching is designed in such a way that you can pick the content that is most relevant to you to tailor your learning experience. Here are the different types of resources available and why you may or may not want to use them.
 
-#### Session scripts
+#### Session files
+After each session a `.sql` file containing all of the queries exemplified during the session will be added. You may want to use these to review the material, help you with homework, or simply recreate the results observed.
 
 
-#### Homework scripts
-
+#### Homework exercises
+For each session there will be a corresponding file with homework exercises for you to review the content taught, and these will generally be uploaded one or two days after the corresponding session. You should attempt these as it will aid in solidifying your understanding, and you will be required to submit all completed homework sheets (more info below) in order to recieve a digital Course Completion Certificate. If you're struggling with any of the excercises or have completed them and wish to have a look at the solutions, reach out to any of the [contact points](#contact) for help. 
 
 ### Session Links
 
 Here you can find the resources for each session. Sessions will be added as the course progresses.
 
-* [Session One](session-one)
-* [Session Two](session-two)
-* [Session Three](session-three)
-* [Session Four](session-four)
+* [Session One](session-one) 
 
 ### Further Reading
 

@@ -49,3 +49,30 @@ Select the top 10 genes without exactly 2 chromosones and belonging to the
 
 
 -- USING THE INTERACTIONS TABLE
+
+/* Question 6:
+Select all physical interactions with correlation greater than 0.5.
+*/
+
+/* Question 7:
+Select all genetic interactions with correlation strictly less than -0.4.
+*/
+
+/* Question 8:
+Select all interactions with correlation greater than |0.4|
+(Hint: You might need to use the AND operator).
+*/
+
+/* Question 9:
+Select the top 10 genetic reactions with highest absolute correlation
+(Hint: We will learn about a more efficient way to go about
+ this in the next session, but for now try selecting those with absolute
+ correlations of more than 0.95 and work from there.
+*/
+
+
+/* Question 10:
+Select all physical interactions with correlation greater than |0.3| and
+genetic interactions with correlation greater than |0.5|
+(Genetic-physical reactions must satisfy the least binding of these constraints).
+*/

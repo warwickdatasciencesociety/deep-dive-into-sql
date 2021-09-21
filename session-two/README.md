@@ -1,4 +1,4 @@
-# Deep-Dive Into SQL: Session One
+# Deep-Dive Into SQL: Session Two
 
 ## Session Content
 

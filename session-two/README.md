@@ -15,7 +15,7 @@ missed sessions
 
 ## Session Resources
 
-- [Presentation](https://github.com/warwickdatasciencesociety/deep-dive-into-sql/blob/main/session-one/session-two-presentation.pptx?raw=true)
+- [Presentation](https://github.com/warwickdatasciencesociety/deep-dive-into-sql/blob/main/session-two/session-two-presentation.pptx?raw=true)
 
 ## Session Homework
 

@@ -19,4 +19,4 @@ missed sessions
 
 ## Session Homework
 
-- [Exercises](https://github.com/warwickdatasciencesociety/deep-dive-into-sql/blob/main/session-two/session-two-exercises.sql)
+- [Exercises](https://github.com/warwickdatasciencesociety/deep-dive-into-sql/blob/main/session-two/session-two-exercises.sql?raw=true)

@@ -19,8 +19,8 @@ missed sessions
 
 ## Session Resources
 
-- [Presentation](https://github.com/warwickdatasciencesociety/deep-dive-into-sql/blob/main/session-four/session-four-presentation.pptx)
+- [Presentation](https://github.com/warwickdatasciencesociety/deep-dive-into-sql/blob/main/session-four/session-four-presentation.pptx?raw=true)
 
 ## Session Homework
 
-- [Exercises](https://github.com/warwickdatasciencesociety/deep-dive-into-sql/blob/main/session-four/session-four-exercises.sql)
+- [Exercises](https://github.com/warwickdatasciencesociety/deep-dive-into-sql/blob/main/session-four/session-four-exercises.sql?raw=true)

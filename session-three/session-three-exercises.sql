@@ -1,11 +1,11 @@
 -- genes table
 /* QUESTION 1
-Localisation of genes with type 'Genetic'
+Return the localisation(s) of genes with type 'Genetic'
 */
 
 
 /* QUESTION 2
-pairs of gene ID with the same localisation. 
+Return pairs of gene IDs with the same localisation. 
 Take care to list UNIQUE pairs. (a,b) and (b,a) are the same pair.
 */
 

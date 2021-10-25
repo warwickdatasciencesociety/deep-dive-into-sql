@@ -23,7 +23,8 @@ of different genes.
 /* Question 1:
 Select the 'GeneID' and 'Function' columns. Use 'ID' as an
 alias for GeneID. Name three different types of gene functions that
-you can see upon inspection.
+you can see upon inspection. If you're having problems with this task leave it until you've
+seen session 3
 */
 
 
@@ -59,8 +60,7 @@ Select all genetic interactions with correlation strictly less than -0.4.
 */
 
 /* Question 8:
-Select all interactions with correlation greater than |0.4|
-(Hint: You might need to use the AND operator).
+Select all interactions with correlation greater than |0.4|.
 */
 
 /* Question 9:

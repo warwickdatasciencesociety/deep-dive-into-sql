@@ -80,7 +80,8 @@ If you are self-teaching, feel free to reach out to Dominika Daraż (the content
 
 ## Contact
 
-This course was co-authored and initially taught by [Dominika Daraż](https://www.linkedin.com/in/dominika-dara%C5%BC-b13335162/) and [Sean Koh]().
+This course was co-authored and initially taught by [Dominika Daraż](https://www.linkedin.com/in/dominika-dara%C5%BC-b13335162/) 
+This course is taught by [Sean Koh]().
 
 The current course coordinator is [Osandi Payagala](https://uk.linkedin.com/in/osandi-payagala-171310223).
 

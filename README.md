@@ -80,7 +80,7 @@ If you are self-teaching, feel free to reach out to Sean Koh (the current teache
 
 ## Contact
 
-This course was co-authored and initially taught by [Dominika Daraż](https://www.linkedin.com/in/dominika-dara%C5%BC-b13335162/) and [Patricio Hernandez] (https://www.linkedin.com/in/patriciohdzs/)
+This course was co-authored and initially taught by [Dominika Daraż](https://www.linkedin.com/in/dominika-dara%C5%BC-b13335162/) and [Patricio Hernandez](https://www.linkedin.com/in/patriciohdzs/)
 
 
 This course is currently taught by [Sean Koh]().

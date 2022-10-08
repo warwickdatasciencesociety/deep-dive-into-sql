@@ -76,11 +76,11 @@ You can find a list of answered FAQs [here](faqs/).
 
 Unlike some of our other courses, we do not currently have a mentoring scheme for this course. Instead, the course coordinator will arrange office hours for you to drop into and ask questions.
 
-If you are self-teaching, feel free to reach out to Dominika Daraż (the content co-author and course coordinator) on [LinkedIn](https://www.linkedin.com/in/dominika-dara%C5%BC-b13335162/) or Patricio Hernandez (the content co-author) on [LinkedIn](https://www.linkedin.com/in/patriciohdzs/)
+If you are self-teaching, feel free to reach out to Sean Koh (the current teacher) on [LinkedIn]() or Osandi Payagala (the course coordinator) on [LinkedIn](https://uk.linkedin.com/in/osandi-payagala-171310223)
 
 ## Contact
 
-This course was co-authored and initially taught by [Dominika Daraż](https://www.linkedin.com/in/dominika-dara%C5%BC-b13335162/) 
+This course was co-authored and initially taught by [Dominika Daraż](https://www.linkedin.com/in/dominika-dara%C5%BC-b13335162/) and [Patricio Hernandez] (https://www.linkedin.com/in/patriciohdzs/)
 
 
 This course is currently taught by [Sean Koh]().

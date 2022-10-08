@@ -80,9 +80,9 @@ If you are self-teaching, feel free to reach out to Dominika Daraż (the content
 
 ## Contact
 
-This course was co-authored and initially taught by [Dominika Daraż](https://www.linkedin.com/in/dominika-dara%C5%BC-b13335162/) and [Patricio Hernandez](https://www.linkedin.com/in/patriciohdzs/).
+This course was co-authored and initially taught by [Dominika Daraż](https://www.linkedin.com/in/dominika-dara%C5%BC-b13335162/) and [Sean Koh]().
 
-The current course coordinator is [Dominika Daraż](https://www.linkedin.com/in/dominika-dara%C5%BC-b13335162/).
+The current course coordinator is [Osandi Payagala](https://uk.linkedin.com/in/osandi-payagala-171310223).
 
 For general enquires, reach out to [education@wdss.io](mailto:education@wdss.io).
 

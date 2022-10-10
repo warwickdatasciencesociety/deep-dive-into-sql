@@ -27,8 +27,8 @@ The WDSS Deep-Dive Into SQL course is designed for anyone wanting to gain or imp
 In order to engage both with the course content and homework you will require access to our hosted databases via a MySQL-supported client. Whilst there are many options for this, we recommend using DBeaver as it is free, open-source, and easy to download and use. [Follow this link to download DBeaver Community Edition.](https://dbeaver.io/download/) 
 
 #### Connecting to the course database
-Once you have an SQL client set up, you're gonna want to connect to the WDSS-hosted databases for this course. To do this using Beekeper, select a `MySQL` connection and input the login details below:
-- Host: `sql.wdss.io`
+Once you have an SQL client set up, you're gonna want to connect to the WDSS-hosted databases for this course. To do this using DBeaver, select a `MySQL` connection and input the login details below:
+- Server Host: `sql.wdss.io`
 - Port: `33061`
 - Username: `guest`
 - Password: `relational`
@@ -83,7 +83,7 @@ If you are self-teaching, feel free to reach out to Sean Koh (the current teache
 This course was co-authored and initially taught by [Dominika Daraż](https://www.linkedin.com/in/dominika-dara%C5%BC-b13335162/) and [Patricio Hernandez](https://www.linkedin.com/in/patriciohdzs/)
 
 
-This course is currently taught by [Sean Koh]().
+This course is currently taught by [Sean Koh](https://www.linkedin.com/in/sean-michael-koh-1aa37b204/).
 
 The current course coordinator is [Osandi Payagala](https://uk.linkedin.com/in/osandi-payagala-171310223).
 

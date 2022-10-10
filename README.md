@@ -76,7 +76,7 @@ You can find a list of answered FAQs [here](faqs/).
 
 Unlike some of our other courses, we do not currently have a mentoring scheme for this course. Instead, the course coordinator will arrange office hours for you to drop into and ask questions.
 
-If you are self-teaching, feel free to reach out to Sean Koh (the current teacher) on [LinkedIn]() or Osandi Payagala (the course coordinator) on [LinkedIn](https://uk.linkedin.com/in/osandi-payagala-171310223)
+If you are self-teaching, feel free to reach out to Sean Koh (the current teacher) on [LinkedIn](https://www.linkedin.com/in/sean-michael-koh-1aa37b204/) or Osandi Payagala (the course coordinator) on [LinkedIn](https://uk.linkedin.com/in/osandi-payagala-171310223)
 
 ## Contact
 

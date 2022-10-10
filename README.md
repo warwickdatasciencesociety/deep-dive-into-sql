@@ -23,8 +23,8 @@ If you are viewing this page on GitHub, you may want to switch to the [standalon
 The WDSS Deep-Dive Into SQL course is designed for anyone wanting to gain or improve their SQL skills. As such it is suitable for complete beginners, but dives deep enough to interest more experienced SQLers. This course covers querying a database, from very simple to more advanced queries. This is a fast-paced course designed to make you into a competent user of SQL in just two weeks. Our session recordings will be uploaded to Youtube and all of our resources are free to be used by anyone, so if you miss out you can still complete this course on a self-paced manner, although we do recommend attending the live sessions to enhance your learning.
 
 ### Setup Guide
-#### Using Beekeeper Studio (recommended)
-In order to engage both with the course content and homeworks you will require access to our hosted databases via a MySQL-supported client. Whilst there are many options for this, we recommend using Beekeeper studio as it is free, open-source, and extremely easy to download and use. [Follow this link to download Beekeeper.](https://www.beekeeperstudio.io/) 
+#### Using DBeaver (recommended)
+In order to engage both with the course content and homework you will require access to our hosted databases via a MySQL-supported client. Whilst there are many options for this, we recommend using DBeaver as it is free, open-source, and easy to download and use. [Follow this link to download DBeaver Community Edition.](https://dbeaver.io/download/) 
 
 #### Connecting to the course database
 Once you have an SQL client set up, you're gonna want to connect to the WDSS-hosted databases for this course. To do this using Beekeper, select a `MySQL` connection and input the login details below:

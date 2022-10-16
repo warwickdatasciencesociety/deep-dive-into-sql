@@ -1,7 +1,5 @@
 # Welcome to Deep-Dive Into SQL
 
-If you are viewing this page on GitHub, you may want to switch to the [standalone website](https://education.wdss.io) for a better experience.
-
 ## On This Page
 
 - [Getting Started](#getting-started)

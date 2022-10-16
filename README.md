@@ -51,7 +51,7 @@ For each session there will be a corresponding file with homework exercises for 
 
 ### Session Links
 
-Here you can find the resources for each session. Sessions will be added as the course progresses.
+Here you can find the resources for each session. Sessions will be updated as the course progresses.
 
 * [Session One](session-one/) 
 * [Session Two](session-two/) 

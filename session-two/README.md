@@ -10,8 +10,7 @@
 
 ## Session Recording
 
-To be added soon. Reach out to education@wdss.io if you need to catch up with
-missed sessions
+To be added soon.
 
 ## Session Resources
 

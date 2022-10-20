@@ -18,6 +18,9 @@ To be added soon.
 ## Session Resources
 
 - [Presentation](https://github.com/warwickdatasciencesociety/deep-dive-into-sql/blob/main/session-one/session-one-presentation.pptx?raw=true)
+- [Class Excercises](https://github.com/warwickdatasciencesociety/deep-dive-into-sql/blob/main\session-one\session-one-class-excercises.sql?raw=true)
+- [Class Excercises (Filled)](https://github.com/warwickdatasciencesociety/deep-dive-into-sql/blob/main\session-one\session-one-class-excercises-filled.sql?raw=true)
+
 
 ## Session Homework
 

@@ -2,7 +2,7 @@
 WDSS Deep-Dive Into SQL: Session One Homework
 
 To receive a certificate email all four
-homework files to education@wdss.io
+homework files to sean.koh@warwick.ac.uk
 
 To start out with this homework, connect to the
 course database with the following details

@@ -16,7 +16,7 @@ You are encouraged to inspect the appropriate table before creating the query. T
 */
 
 /* QUESTION 4
-The police are investigating your business, looking for an alleged theif. The only thing they know about the suspect is that they have no middle name but have bought something at your shop. 
+The police are investigating your business, looking for an alleged thief. The only thing they know about the suspect is that they have no middle name but have bought something at your shop. 
 The police are requesting a list of all your customers (first name, middle initial and last name), as a single column. Fill in the NULL values with an initial of your choosing to avoid anyone being arested.
 Rename the column so the police aren't suspicious.
 */

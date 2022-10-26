@@ -25,16 +25,22 @@ If the counts are different, can you select the rows that are in one but not ano
 
 SELECT COUNT(*)
 FROM world.City
-RIGHT JOIN world.Country ON City.CountryCode = Country.Code;
+RIGHT JOIN world.Country ON City.CountryCode = Country.Code
+WHERE City.Name IS NULL;
 
 /* QUESTION 3
 Perform a NATURAL JOIN on City and CountryLanguage. 
 What is another way (using some other type of JOIN) to generate the same table?
 */
 
-SELECT *
+SELECT COUNT(*)
 FROM world.City 
 NATURAL JOIN world.CountryLanguage 
+
+SELECT *
+FROM world.City 
+RIGHT JOIN world.CountryLanguage ON City.CountryCode = CountryLanguage.CountryCode
+WHERE City.Name IS NULL;
 
 /*CLASS EXCERCISES*/
 /* PART 2: Subqueries */

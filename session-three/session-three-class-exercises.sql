@@ -5,7 +5,7 @@
 
 /* QUESTION 1
 Perform an LEFT JOIN between City and CountryLanguage tables on Country Code. 
-Select the City name, Language and Percentage where Name is your home country. Interpret the table.
+Select the City name, Language and Percentage where Name is your home city. Interpret the table.
 */
 
 
@@ -17,6 +17,9 @@ Are the counts the same? What do they mean?
 If the counts are different, can you select the rows that are in one but not another?
 */
 
+SELECT *
+FROM World.City c1
+LEFT JOIN world.Country c2 ON c1.CountryCode = c2.Code;
 
 /* QUESTION 3
 Perform a NATURAL JOIN on City and CountryLanguage. 

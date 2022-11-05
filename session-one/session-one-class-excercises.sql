@@ -18,7 +18,7 @@ Afterwards, try to select only two attributes.
 */
 
 /*
-1.4 Select the first name, middle initial and last name of every employee. Rename the attributes to f and l.
+1.4 Select the first name and last name of every employee. Rename the attributes to f and l.
 */
 
 

@@ -12,10 +12,6 @@
 
 /* 1.3 Select all rows in weather that have both a recorded sunrise time and a sunset time. */
 
-SELECT *
-FROM walmart.weather
-WHERE sunrise IS NOT NULL AND sunset IS NOT NULL;
-
 
 /* PART 2: Aggregate Functions*/
 

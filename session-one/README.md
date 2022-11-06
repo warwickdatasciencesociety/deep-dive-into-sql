@@ -13,7 +13,7 @@
 
 ## Session Recording
 
-To be added soon.
+https://www.youtube.com/watch?v=82EAcACp6lE
 
 ## Session Resources
 

@@ -10,7 +10,7 @@
 
 ## Session Recording
 
-To be added soon.
+https://youtu.be/hq7ocX_PkhM
 
 ## Session Resources
 

@@ -14,7 +14,7 @@
 
 ## Session Recording
 
-To be added soon.
+ - [Video](https://youtu.be/aMKkp8JNbBU)
 
 ## Session Resources
 
